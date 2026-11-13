@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: MultiBot Bag Counts
+## Notes: Shows controlled alt-bot bag counts on your bag tooltips.
+## Version: 0.1
+MultiBotBagCounts.lua
